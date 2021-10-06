@@ -1,0 +1,6 @@
+Capabilities
+- In draft scouting (clash)
+- In draft team scouting (what your teammates often play, expected damage profile, etc)
+- Use that scouting to inform in game decisions?
+- Join and create tournaments
+- 
